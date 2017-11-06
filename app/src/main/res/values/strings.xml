@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DataBindingKotlin</string>
+
+    <string-array name="my_samples">
+        <item>Sample Activity</item>
+        <item>Sample Fragment</item>
+        <item>Two Way Binding</item>
+        <item>Two Way Binding Java</item>
+    </string-array>
+
+    <string name="title_activity_two_way_binding">TwoWay Binding Example</string>
+    <string name="title_activity_two_way_binding_java">Java TwoWay Binding</string>
 </resources>

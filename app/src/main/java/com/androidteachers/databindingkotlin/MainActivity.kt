@@ -9,11 +9,10 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+//        setContentView(R.layout.activity_main)
 
-        val binding: ActivityMainBinding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-
-        val user = DataBindingKotlinModel("Imtiyaz", "Khalani")
+        var binding: ActivityMainBinding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+        var user = DataBindingKotlinModel("Imtiyaz", "Khalani")
         binding.setVariable(BR.model, user)
         binding.executePendingBindings()
     }

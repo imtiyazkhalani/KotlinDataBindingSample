@@ -9,6 +9,11 @@ import android.support.v7.app.AppCompatActivity
 
 class DataBindFragmentActivity : AppCompatActivity() {
 
+    companion object {
+        val flag = true
+        val app_name :String = if (flag) "Imtiyaz" else "Khalani"
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_data_bind_fragment)

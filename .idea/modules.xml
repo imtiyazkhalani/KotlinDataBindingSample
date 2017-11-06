@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataBindingKotlin.iml" filepath="$PROJECT_DIR$/DataBindingKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinDataBindingSample.iml" filepath="$PROJECT_DIR$/KotlinDataBindingSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
