@@ -20,3 +20,5 @@ You don't aware about Kotlin then please refer below links
 * [kotlin Data Binding in Android ](https://androidteachers.com/kotlin-for-android/kotlin-data-binding-in-android/)
 
 * [Manage Fragment With Data Binding in Kotlin Android ](https://androidteachers.com/kotlin-for-android/manage-fragment-data-binding-kotlin/)
+
+* [Two Way DataBinding With Kotlin & Java In Android ](https://androidteachers.com/kotlin-for-android/two-way-databinding-with-kotlin-java-in-android/)
