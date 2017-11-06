@@ -21,4 +21,10 @@ You don't aware about Kotlin then please refer below links
 
 * [Manage Fragment With Data Binding in Kotlin Android ](https://androidteachers.com/kotlin-for-android/manage-fragment-data-binding-kotlin/)
 
+
+
+## Two Way Data Binding
+Two Way Data Binding example with edittext and textview checkbox
 * [Two Way DataBinding With Kotlin & Java In Android ](https://androidteachers.com/kotlin-for-android/two-way-databinding-with-kotlin-java-in-android/)
+
+![Screenshot](https://androidteachers.com/wp-content/uploads/2017/11/two-way-data-binding.gif)
