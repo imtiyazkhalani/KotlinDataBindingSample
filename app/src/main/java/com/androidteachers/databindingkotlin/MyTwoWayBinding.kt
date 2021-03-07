@@ -1,9 +1,9 @@
 package com.androidteachers.databindingkotlin
 
-import android.databinding.DataBindingUtil
-import android.databinding.ViewDataBinding
+import androidx.databinding.DataBindingUtil
+import androidx.databinding.ViewDataBinding
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 
 class MyTwoWayBinding : AppCompatActivity() {
 

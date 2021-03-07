@@ -1,7 +1,7 @@
 package com.androidteachers.databindingkotlin
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 
 /**
  * Created by androidteachers on 09/21/2017.
